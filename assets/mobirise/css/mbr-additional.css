@@ -20,31 +20,31 @@
   font-size: 16px;
   font-family: 'Oswald', sans-serif;
 }
-#msg-box4-1 .mbr-header__text {
+#header3-g H3 {
+  color: #0f2dea;
+}
+#content1-j P {
+  color: #f97352;
+}
+#header3-m P {
+  color: #eb6b56;
+}
+#header3-m H3 {
+  color: #f97352;
+}
+#msg-box4-f .mbr-header__text {
   color: #ffffff;
   text-align: left;
   font-size: 16px;
 }
-#msg-box4-1 .mbr-header__subtext {
+#msg-box4-f .mbr-header__subtext {
   color: #ffffff;
 }
-#msg-box4-1 .mbr-article {
+#msg-box4-f .mbr-article {
   color: #ffffff;
 }
-#msg-box4-1 .mbr-article P {
+#msg-box4-f .mbr-article P {
   font-size: 16px;
-}
-#header3-8 H3 {
-  color: #0f2dea;
-}
-#content1-9 P {
-  color: #f97352;
-}
-#header3-b P {
-  color: #eb6b56;
-}
-#header3-b H3 {
-  color: #f97352;
 }
 #contacts3-e B {
   color: #ffffff;

@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 15,
+    "uniqCompNum": 23,
     "versionPublish": "4.3.4"
   },
   "pages": {
@@ -115,7 +115,225 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
+        }
+      ]
+    },
+    "work.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "work",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "The rainman",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#0f2dea"
+            }
+          },
+          "_anchor": "header3-g"
         },
+        {
+          "text": "<p><br></p><p><br></p><p>The rainman is ontstaan door een verzameling met objecten die de rode draad: door een handeling word pas iets zichtbaar dat je eerder niet kon zien.</p><p>Door deze gedachtengang ben ik opzoek gegaan en van het patroon van een regenponcho&nbsp;</p><p>en daarna met die vorm mijn eigen versie te maken die 2 functies heefd zowel als tafelkleed en als poncho.</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#f97352"
+            }
+          },
+          "_anchor": "content1-j"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": true,
+            "noGutter": false,
+            "showText": false,
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/012-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/012-2000x2000-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/013-2000x2000-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/013-2000x2000-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/015-2000x2000-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/015-2000x2000-800x800-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/011-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/011-1-2000x2000-800x800.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-h"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/013-2000x2000-800x800.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/015-2000x2000.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/012-2000x2000.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/011-1-2000x2000.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-i"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "<br><br>Een kettingreactie&nbsp;",
+          "meta": "Van verschillende textiele eigenschappen.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "color": "#eb6b56"
+            },
+            "H3": {
+              "color": "#f97352"
+            }
+          },
+          "_anchor": "header3-m"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": false,
+            "showText": false,
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/18012808-10206894635084579-1375405528-o-1334x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18012808-10206894635084579-1375405528-o-1334x1000-800x599.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/18927335-10207248381928029-2124898569-o-1334x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18927335-10207248381928029-2124898569-o-1334x1000-800x599.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/18948756-10207256854019826-532037061-o-1334x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18948756-10207256854019826-532037061-o-1334x1000-800x599.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/18987332-10207248401168510-824914347-o-1334x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18987332-10207248401168510-824914347-o-1334x1000-800x599.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-k"
+        }
+      ]
+    },
+    "about.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "about",
+        "order": 1
+      },
+      "components": [
         {
           "_inherit": "msg-box5",
           "_params": {
@@ -187,235 +405,17 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-1"
-        },
-        {
-          "_params": {
-            "showMeta": true
-          },
-          "title": "The rainman",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-8",
-          "_styles": {
-            "H3": {
-              "color": "#0f2dea"
-            }
-          }
-        },
-        {
-          "text": "<p><br></p><p><br></p><p>The rainman is ontstaan door een verzameling met objecten die de rode draad: door een handeling word pas iets zichtbaar dat je eerder niet kon zien.</p><p>Door deze gedachtengang ben ik opzoek gegaan en van het patroon van een regenponcho&nbsp;</p><p>en daarna met die vorm mijn eigen versie te maken die 2 functies heefd zowel als tafelkleed en als poncho.</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-9",
-          "_styles": {
-            "P": {
-              "color": "#f97352"
-            }
-          }
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "fullWidth": true,
-            "noGutter": false,
-            "showText": false,
-            "showBullets": true,
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/012-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/012-2000x2000-800x800.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/013-2000x2000-800x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/013-2000x2000-800x800-800x800.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/015-2000x2000-800x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/015-2000x2000-800x800-800x800.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/011-1-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/011-1-2000x2000-800x800.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": true,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_anchor": "gallery2-5"
-        },
-        {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
-          "_params": {
-            "autoplay": true,
-            "showBullets": true,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/013-2000x2000-800x800.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/015-2000x2000.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 2",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/012-2000x2000.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/011-1-2000x2000.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
-          },
-          "articleLayout": true,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider2",
-          "_anchor": "slider2-6"
-        },
-        {
-          "_params": {
-            "showMeta": true
-          },
-          "title": "<br><br>Een kettingreactie&nbsp;",
-          "meta": "Van verschillende textiele eigenschappen.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-b",
-          "_styles": {
-            "P": {
-              "color": "#eb6b56"
-            },
-            "H3": {
-              "color": "#f97352"
-            }
-          }
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "fullWidth": false,
-            "noGutter": false,
-            "showText": false,
-            "showBullets": true,
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/18012808-10206894635084579-1375405528-o-1334x1000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/18012808-10206894635084579-1375405528-o-1334x1000-800x599.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/18927335-10207248381928029-2124898569-o-1334x1000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/18927335-10207248381928029-2124898569-o-1334x1000-800x599.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/18948756-10207256854019826-532037061-o-1334x1000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/18948756-10207256854019826-532037061-o-1334x1000-800x599.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/18987332-10207248401168510-824914347-o-1334x1000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/18987332-10207248401168510-824914347-o-1334x1000-800x599.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": true,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_anchor": "gallery2-c"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/18948719-10207248381328014-83160656-o-1334x1000.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-d"
-        },
+          "_anchor": "msg-box4-f"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "contact",
+        "order": 3
+      },
+      "components": [
         {
           "_params": {
             "paddingTop": 3,
@@ -478,38 +478,6 @@
           }
         }
       ]
-    },
-    "page1.html": {
-      "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "Page 1",
-        "order": 4
-      },
-      "components": []
-    },
-    "work.html": {
-      "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "work",
-        "order": 2
-      },
-      "components": []
-    },
-    "about.html": {
-      "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "about",
-        "order": 1
-      },
-      "components": []
-    },
-    "contact.html": {
-      "settings": {
-        "meta_descr": "Web Site Creator Description",
-        "title": "contact",
-        "order": 3
-      },
-      "components": []
     }
   }
 }
