@@ -1,25 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-
-#ext_menu-0 .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
-}
-#ext_menu-0 .mbr-navbar__section {
-  background: #ffffff;
-}
-#ext_menu-0 .mbr-navbar__hamburger {
-  color: #0f2dea;
-}
-#header1-2 P {
-  color: #0f2dea;
-}
-#header1-2 H1 {
-  color: #0f2dea;
-  font-size: 16px;
-  font-family: 'Oswald', sans-serif;
-}
 #header3-g H3 {
   color: #0f2dea;
 }
@@ -54,4 +33,25 @@
 }
 #contacts3-e P {
   color: #ffffff;
+}
+
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-0 .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #0f2dea;
+}
+#header1-2 P {
+  color: #0f2dea;
+}
+#header1-2 H1 {
+  color: #0f2dea;
+  font-size: 16px;
+  font-family: 'Oswald', sans-serif;
 }
