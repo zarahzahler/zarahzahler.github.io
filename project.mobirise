@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-05_1745",
+    "name": "Eerste versie Zarah",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -12,7 +12,9 @@
     },
     "versionFirst": "4.3.4",
     "uniqCompNum": 23,
-    "versionPublish": "4.3.4"
+    "versionPublish": "4.3.4",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
