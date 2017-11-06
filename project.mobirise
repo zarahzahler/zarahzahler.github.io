@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Eerste versie Zarah",
-    "currentPage": "home.html",
+    "currentPage": "work.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": "",
@@ -23,7 +23,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "work",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -38,13 +38,15 @@
           "_name": "header3",
           "_styles": {
             "H3": {
-              "color": "#0f2dea"
+              "color": "#0f2dea",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "header3-g"
         },
         {
-          "text": "<p><br></p><p><br></p><p>The rainman is ontstaan door een verzameling met objecten die de rode draad: door een handeling word pas iets zichtbaar dat je eerder niet kon zien.</p><p>Door deze gedachtengang ben ik opzoek gegaan en van het patroon van een regenponcho&nbsp;</p><p>en daarna met die vorm mijn eigen versie te maken die 2 functies heefd zowel als tafelkleed en als poncho.</p><p><br></p>",
+          "text": "<p><br></p><p><br></p><p>The rainman is ontstaan door een verzameling met objecten die de rode draad: door een handeling word pas iets zichtbaar dat je eerder niet kon zien.</p><p>Door deze gedachtengang ben ik opzoek gegaan en van het patroon van een regenponcho&nbsp;</p><p>en daarna met die vorm mijn eigen versie te maken die 2 functies heefd zowel als tafelkleed en als poncho.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -105,17 +107,17 @@
           "_inherit": "slider",
           "_afterNavbarItem": ".mbr-slider",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/013-2000x2000-800x800.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
                 "title": "Slide 1",
-                "contentAlign": "right",
+                "contentAlign": "left",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -143,7 +145,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/011-1-2000x2000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -165,18 +167,21 @@
           "_params": {
             "showMeta": true
           },
-          "title": "<br><br>Een kettingreactie&nbsp;",
-          "meta": "Van verschillende textiele eigenschappen.",
+          "title": "<br><br><br><br><br><br>Een kettingreactie&nbsp;",
+          "meta": "Van verschillende textiele eigenschappen.<br><br><br><br><br><br><br><br><br><br><br>",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_styles": {
             "P": {
-              "color": "#eb6b56"
+              "color": "#f97352"
             },
             "H3": {
-              "color": "#f97352"
+              "color": "#0f2dea",
+              "font-size": "30px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "header3-m"
@@ -185,7 +190,7 @@
           "_inherit": "gallery1",
           "_params": {
             "fullWidth": false,
-            "noGutter": false,
+            "noGutter": true,
             "showText": false,
             "showBullets": true,
             "images": [
@@ -243,9 +248,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "imageSize": "15",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -281,8 +286,8 @@
               "size": 0
             }
           },
-          "title": "Zarah Zahler",
-          "text": "<p>Opleidingen: Beeldende Vormgeving 2015-2016, Textiel Ontwerp 2016-2017, Mixed Media 2017-...</p><p><br></p>",
+          "title": "Zarah Zahler<br><br>20jaar oude Studente<br>Uit Antwerpen.<br>Nu in gent.<br><br>",
+          "text": "<p>Opleidingen: Beeldende Vormgeving 2015-2016, Textiel Ontwerp 2016-2017, Mixed Media 2017-...<br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -314,7 +319,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "contact",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -368,7 +373,9 @@
           "_anchor": "contacts3-e",
           "_styles": {
             "B": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "STRONG": {
               "color": "#ffffff"
@@ -418,6 +425,14 @@
             },
             ".mbr-navbar__hamburger": {
               "color": "#0f2dea"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">about</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"work.html\">work</a></li>",
@@ -461,8 +476,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "The moon lights up when the stars say hello.",
-          "text": "<br><br>",
+          "title": "",
+          "text": "<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; To be me, To be you.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -471,7 +486,9 @@
           "_anchor": "header1-2",
           "_styles": {
             "P": {
-              "color": "#0f2dea"
+              "color": "#0f2dea",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "H1": {
               "color": "#0f2dea",

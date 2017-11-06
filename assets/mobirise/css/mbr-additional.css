@@ -1,15 +1,20 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
 #header3-g H3 {
   color: #0f2dea;
+  font-family: 'Oswald', sans-serif;
 }
 #content1-j P {
   color: #f97352;
 }
 #header3-m P {
-  color: #eb6b56;
+  color: #f97352;
 }
 #header3-m H3 {
-  color: #f97352;
+  color: #0f2dea;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
 }
 #msg-box4-f .mbr-header__text {
   color: #ffffff;
@@ -25,8 +30,10 @@
 #msg-box4-f .mbr-article P {
   font-size: 16px;
 }
+
 #contacts3-e B {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #contacts3-e STRONG {
   color: #ffffff;
@@ -34,6 +41,9 @@
 #contacts3-e P {
   color: #ffffff;
 }
+
+
+
 
 #ext_menu-0 .mbr-brand__name {
   font-size: 16px;
@@ -47,8 +57,15 @@
 #ext_menu-0 .mbr-navbar__hamburger {
   color: #0f2dea;
 }
+#ext_menu-0 .mbr-brand__name a {
+  font-family: 'Oswald', sans-serif;
+}
+#ext_menu-0 .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+}
 #header1-2 P {
   color: #0f2dea;
+  font-family: 'Oswald', sans-serif;
 }
 #header1-2 H1 {
   color: #0f2dea;
