@@ -1,63 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
-
-#menu-o .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-o.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-o .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-o .mbr-navbar__items a {
-  font-family: 'Oswald', sans-serif;
-}
-#header3-g H3 {
-  color: #0f2dea;
-  font-family: 'Oswald', sans-serif;
-}
-#content1-j P {
-  color: #f97352;
-}
-#header3-m P {
-  color: #f97352;
-}
-#header3-m H3 {
-  color: #0f2dea;
-  font-size: 30px;
-  font-family: 'Oswald', sans-serif;
-}
-
-#menu-o .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-o.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-o .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-o .mbr-navbar__items a {
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box4-f .mbr-header__text {
-  color: #ffffff;
-  text-align: left;
-  font-size: 16px;
-}
-#msg-box4-f .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-f .mbr-article {
-  color: #ffffff;
-}
-#msg-box4-f .mbr-article P {
-  font-size: 16px;
-}
-
-
 #menu-o .mbr-brand__name {
   font-size: 16px;
 }
@@ -90,14 +33,12 @@
 #ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
   background: #ffffff;
 }
-#ext_menu-0 .mbr-navbar__section {
-  background: #ffffff;
-}
 #ext_menu-0 .mbr-navbar__hamburger {
   color: #0f2dea;
 }
 #ext_menu-0 .mbr-brand__name a {
   font-family: 'Oswald', sans-serif;
+  font-size: 20px;
 }
 #ext_menu-0 .mbr-navbar__items a {
   font-family: 'Oswald', sans-serif;
@@ -110,4 +51,113 @@
   color: #0f2dea;
   font-size: 16px;
   font-family: 'Oswald', sans-serif;
+}
+
+
+
+
+#menu-r .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-r.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-r .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-r .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box2-v .mbr-header .mbr-header__text {
+  color: #252525;
+  text-align: center;
+}
+#msg-box2-v .mbr-article {
+  color: #252525;
+}
+#msg-box2-v .mbr-header .mbr-header__text SPAN {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+#msg-box2-v .mbr-header .mbr-header__text I {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  color: #0f2dea;
+}
+#header3-13 H3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  color: #0f2dea;
+}
+
+
+
+#header3-g H3 {
+  color: #0f2dea;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-o .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-o.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-o .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-o .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+}
+#content1-j P {
+  color: #f97352;
+}
+#header3-m P {
+  color: #f97352;
+}
+#header3-m H3 {
+  color: #0f2dea;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+
+#menu-s .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-s.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-s .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-s .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+}
+
+#menu-p .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-p .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-p .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+}
+
+#msg-box4-17 .mbr-header__text {
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box4-17 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-17 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-17 .mbr-article P {
+  font-size: 16px;
 }
