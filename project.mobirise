@@ -139,7 +139,7 @@
           },
           "title": "",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">About&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"photos.html\" data-toolbar=\"-mbrBtnMove\">Photografie</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"inleiding work.html\" data-toolbar=\"-mbrBtnMove\">Work</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">About&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"photos.html\" data-toolbar=\"-mbrBtnMove\">Photografie</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"inleiding work.html\" data-toolbar=\"-mbrBtnMove\">Work</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
           "_tags": [
             "Theme"
           ],
