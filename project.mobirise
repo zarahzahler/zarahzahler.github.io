@@ -13,7 +13,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 88,
+    "uniqCompNum": 90,
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": "",
@@ -36,6 +36,23 @@
       "components": [
         {
           "_params": {
+            "showMeta": true
+          },
+          "title": "<br><br><br><br><br>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#0f2dea"
+            }
+          },
+          "_anchor": "header3-2h"
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -47,7 +64,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-link\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">contact</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-link\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"></a>",
           "text1": "<b>Zarah Zahler</b><br><br><strong>Contact</strong><br>\nEmail: zarahzahler@hotmail.com<br>\nPhone: +32470457210<br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
@@ -817,7 +834,7 @@
       },
       "components": [
         {
-          "text": "<p><br></p><p><i><b>Zarah Zahler</b></i></p><p><br></p><p>28/11/1996 - 21 jaar oude studente.&nbsp;<br></p><p>Onderwijs Sint-Lucas Antwerpen&nbsp;</p><p>Toegepaste Beeldende Kunsten 2013-2015 </p><p>Sint-Lucas Gent Beeldende Vormgeving </p><p>2015-2016 Sint Lucas Gent Beeldende Kunsten Mixed Media 2016-...</p><p><br></p><p>28/11/1996 - 21 year old student.&nbsp;</p><p>Education Sint-Lucas Antwerp&nbsp;<br></p><p>Applied Visual Arts 2013-2015</p><p>Sint-Lucas Ghent Visual Design</p><p>2015-2016 Sint Lucas Gent Fine Arts Mixed Media 2016 -...</p>",
+          "text": "<p><i><b>Zarah Zahler</b></i><br></p><p><br></p><p>28/11/1996 - 21 jaar oude studente.&nbsp;<br></p><p>Onderwijs Sint-Lucas Antwerpen&nbsp;</p><p>Toegepaste Beeldende Kunsten 2013-2015 </p><p>Sint-Lucas Gent Beeldende Vormgeving </p><p>2015-2016 Sint Lucas Gent Beeldende Kunsten Mixed Media 2016-...</p><p><br></p><p>28/11/1996 - 21 year old student.&nbsp;</p><p>Education Sint-Lucas Antwerp&nbsp;<br></p><p>Applied Visual Arts 2013-2015</p><p>Sint-Lucas Ghent Visual Design</p><p>2015-2016 Sint Lucas Gent Fine Arts Mixed Media 2016 -...</p>",
           "_tags": [
             "Theme"
           ],
