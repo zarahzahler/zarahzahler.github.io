@@ -19,7 +19,7 @@
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "siteUrl": "http://zarahzahler.com",
+    "siteUrl": "http://zarahzahler.github.io/home.html",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /assets/images\n",
     "robotsSwitcher": "on",
