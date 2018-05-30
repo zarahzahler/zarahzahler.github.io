@@ -18,6 +18,11 @@
   font-family: 'Oswald', sans-serif;
 }
 
+#header4-2c .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+
 
 #header3-2d H3 {
   color: #080808;
@@ -43,6 +48,8 @@
 }
 
 
+
+
 #header3-1j H3 {
   color: #080808;
   text-align: left;
@@ -55,6 +62,16 @@
 }
 #content1-1k P {
   color: #000000;
+  font-family: 'Oswald', sans-serif;
+}
+#buttons1-1l .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+
+#header4-q .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
 }
 
 #content1-2f P {

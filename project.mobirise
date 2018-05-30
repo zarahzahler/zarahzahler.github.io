@@ -119,7 +119,7 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": true,
             "showArrow": false,
@@ -145,7 +145,14 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-2c"
+          "_anchor": "header4-2c",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          }
         }
       ]
     },
@@ -732,7 +739,9 @@
           "_anchor": "content1-1k",
           "_styles": {
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         },
@@ -742,7 +751,14 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-1l"
+          "_anchor": "buttons1-1l",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          }
         }
       ]
     },
@@ -782,7 +798,14 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-q"
+          "_anchor": "header4-q",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            }
+          }
         }
       ]
     },
