@@ -844,7 +844,7 @@
             "P": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "25px",
+              "font-size": "21px",
               "color": "#080808",
               "text-align": "right"
             }
